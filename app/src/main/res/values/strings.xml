@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="_180">180</string>
+    <string name="cm">cm</string>
+    <string name="altura">ALTURA</string>
+    <string name="femenino">FEMENINO</string>
+    <string name="_18_5_25_kg_m2">18,5 - 25 kg/m2</string>
+    <string name="rango_de_imc">Rango de IMC</string>
+    <string name="_0">0</string>
+    <string name="normal">Normal</string>
+</resources>
